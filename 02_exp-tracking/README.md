@@ -183,7 +183,7 @@ What is the test RMSE of the best model?
 -----
 **ANSWER:**
 
-6.061 but I actually got something around 5.59...
+5.567 but I actually got something around 5.59...
 
 -----
 
