@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+mlflow
+pandas
+scikit-learn

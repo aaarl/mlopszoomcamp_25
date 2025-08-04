@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  api:
+    build:
+      context: .
+    container_name: breast_cancer_api
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    restart: always
