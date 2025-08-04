@@ -96,6 +96,7 @@ breast-cancer-classifier/
 └── README.md
 
 ## ✅ Evaluation Criteria Coverage
+
 | Category            | Status                                                  |
 | ------------------- | ------------------------------------------------------- |
 | Cloud               | AWS with Terraform provisioning                         |
