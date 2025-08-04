@@ -79,21 +79,7 @@ Model performance is monitored using Evidently and visualized in Grafana. Alerts
 
 ## 📁 Project Structure
 
-breast-cancer-classifier/
-├── data/                     # Raw dataset
-├── notebooks/                # EDA & modeling
-├── src/                      # Modular codebase
-│   ├── training/             # Training logic
-│   ├── inference/            # FastAPI web service
-│   ├── evaluation/           # Metrics & comparison
-│   └── monitoring/           # Drift monitoring
-├── terraform/                # IaC config
-├── .github/workflows/        # CI/CD pipeline
-├── tests/                    # Unit + integration tests
-├── Makefile                  # Automation commands
-├── Dockerfile                # Containerization
-├── requirements.txt          # Dependencies
-└── README.md
+<img src="images/project_structure.png" width="600">
 
 ## ✅ Evaluation Criteria Coverage
 
